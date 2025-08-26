@@ -24,7 +24,7 @@ For full-width: width="100%" height="auto"
     <img width="32" alt="ArtStation" title="ArtStation" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/artstation.svg">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank" rel="noopener">
+  <a href="https://instagram.com/bentobaux" target="_blank" rel="noopener">
     <img width="32" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg">
   </a>
 </p>
