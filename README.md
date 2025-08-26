@@ -8,26 +8,42 @@ For full-width: width="100%" height="auto"
 
 <!-- ===== SOCIAL ICONS (centered) ===== -->
 <p align="center">
-  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
-    <img width="32" alt="YouTube" title="YouTube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/>
+  <a href="https://www.youtube.com/@YOUR_CHANNEL">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/ffffff">
+      <img width="32" alt="YouTube" src="https://cdn.simpleicons.org/youtube/0a0a0a">
+    </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/bennettpoh" target="_blank">
-    <img width="32" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
+  <a href="https://www.linkedin.com/in/bennettpoh">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/ffffff">
+      <img width="32" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0a0a0a">
+    </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/bentoBAUX" target="_blank">
-    <img width="32" alt="GitHub" title="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+  <a href="https://github.com/bentoBAUX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <img width="32" alt="GitHub" src="https://cdn.simpleicons.org/github/0a0a0a">
+    </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.artstation.com/bentobaux" target="_blank">
-    <img width="32" alt="ArtStation" title="ArtStation" src="https://www.vectorlogo.zone/logos/artstation/artstation-icon.svg"/>
+  <a href="https://www.artstation.com/bentobaux">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/artstation/ffffff">
+      <img width="32" alt="ArtStation" src="https://cdn.simpleicons.org/artstation/0a0a0a">
+    </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img width="32" alt="Instagram" title="Instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff">
+      <img width="32" alt="Instagram" src="https://cdn.simpleicons.org/instagram/0a0a0a">
+    </picture>
   </a>
 </p>
+
 
 
 ---
