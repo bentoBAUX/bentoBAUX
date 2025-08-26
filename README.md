@@ -80,6 +80,7 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 <!-- TOOLS-END -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bentobaux&show_icons=true&theme=dark" alt="abhisheknaiidu" />
 ---
 <p align="center">
     I enjoy connecting with other developers, artists, and researchers in graphics programming. <br>
