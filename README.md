@@ -1,4 +1,27 @@
-# Hi, I'm Bennett  
+
+<a href="https://bentobaux.github.io"><img src="/assets/banner/banner.png" width="100%" height="auto"/></a>
+<p align="center">
+  <a href="https://www.youtube.com/@bentoBAUX" target="_blank">
+    <img width="32px" alt="YouTube" title="YouTube" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/bennettpoh" target="_blank">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/bentoBAUX" target="_blank">
+    <img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.artstation.com/bentobaux" target="_blank">
+    <img width="32px" alt="ArtStation" title="ArtStation" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/artstation.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/bentobaux" target="_blank">
+    <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"/>
+  </a>
+</p>
+
 
 **Technical Artist & Graphics Programmer — Bridging Art and Code**  
 
