@@ -57,10 +57,10 @@ For full-width: width="100%" height="auto"
      The <p float="left"> trick keeps the layout image-only (no table borders). -->
 <p float="left">
   <a href="https://felipe-lucas.itch.io/forgotten-colors">
-    <img src="assets/featured/forgotten-colors.jpg" alt="Forgotten Colors" width="48%">
+    <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="48%">
   </a>
   <a href="https://bentobaux.itch.io/tail-as-old-as-time">
-    <img src="assets/featured/tail-as-old-as-time.jpg" alt="Tail as Old as Time" width="48%">
+    <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="48%">
   </a>
 </p>
 
