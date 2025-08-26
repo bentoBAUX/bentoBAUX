@@ -8,6 +8,7 @@ For full-width: width="100%" height="auto"
 </a>
 <br><br>
 
+<h1 align="center"><strong>Hi, I'm Bennett!</strong></h1>
 <p align="center"><strong>Technical Artist &amp; Graphics Programmer — Bridging Art and Code</strong></p>
 
 ## Currently
