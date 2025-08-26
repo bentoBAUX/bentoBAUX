@@ -15,10 +15,10 @@ For full-width: width="100%" height="auto"
     </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/bennettpoh">
+  <a href="https://www.linkedin.com/in/bennettpoh" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/ffffff">
-      <img width="32" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0a0a0a">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-white.png">
+      <img width="32" alt="LinkedIn" src="assets/icons/linkedin-black.png">
     </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -43,6 +43,7 @@ For full-width: width="100%" height="auto"
     </picture>
   </a>
 </p>
+
 
 
 # Hi, I'm Bennett
