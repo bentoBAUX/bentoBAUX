@@ -31,7 +31,7 @@ For full-width: width="100%" height="auto"
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a style="text-decoration: none;" class="no-underline" href="https://www.artstation.com/bentobaux">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/artstation/ffffff">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff">
       <img width="32" alt="" src="https://cdn.simpleicons.org/artstation/0a0a0a">
     </picture>
   </a>
