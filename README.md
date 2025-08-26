@@ -7,8 +7,27 @@
 - Exploring advanced real-time graphics techniques  
 
 ## Featured Projects
-- [Forgotten Colors](https://felipe-lucas.itch.io/forgotten-colors) – Stylised sumi-e shader puzzle-platformer  
-- [Tail as Old as Time](https://bentobaux.itch.io/tail-as-old-as-time) – Exploration puzzle game showcasing a custom HLSL toon shader  
+## Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://felipe-lucas.itch.io/forgotten-colors">
+        <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="320">
+      </a>
+      <br>
+      <sub>Forgotten Colors — Stylised sumi-e puzzle platformer</sub>
+    </td>
+    <td>
+      <a href="https://bentobaux.itch.io/tail-as-old-as-time">
+        <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="320">
+      </a>
+      <br>
+      <sub>Tail as Old as Time — Exploration game showcasing a toon shader</sub>
+    </td>
+  </tr>
+</table>
+
 
 ## Tools & Technologies
 ![HLSL](https://img.shields.io/badge/HLSL-1f425f?logo=shaderlab&logoColor=white)  
