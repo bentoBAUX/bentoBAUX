@@ -38,7 +38,7 @@ For full-width: width="100%" height="auto"
   </a>
 </p>
 
-<h3 align="center"><strong>Technical Artist</strong></h3>
+<h3 align="center"><strong>Technical &amp; 3D Artist</strong></h3>
 
 Hello! My name is Bennett, and I am a computer science student specialising in real-time rendering and shader development. With a strong foundation in 3D art and technical expertise, I focus on bridging the gap between artists and engineers within game development teams.
 
