@@ -47,6 +47,8 @@ For full-width: width="100%" height="auto"
 
 <p align="center"><strong>Technical Artist &amp; Graphics Programmer — Bridging Art and Code</strong></p>
 
+Hello! I am a computer science student specialising in real-time rendering and shader development, combining technical expertise with 3D art experience to bridge artists and engineers.
+
 ## Currently
 - Developing shaders and rendering systems in Unity and Vulkan  
 - Exploring advanced real-time graphics techniques
