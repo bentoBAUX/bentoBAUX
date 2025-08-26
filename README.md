@@ -81,6 +81,11 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 <!-- TOOLS-END -->
 
-I enjoy connecting with other developers, artists, and researchers in graphics programming.  
-If you’d like to collaborate, exchange ideas, or just chat about rendering, reach out on [LinkedIn](https://www.linkedin.com/in/bennettpoh) or at **bennettpoh@gmail.com**.
+<p align="center">
+  <sub>
+    I enjoy connecting with other developers, artists, and researchers in graphics programming. <br>
+    If you’d like to collaborate, exchange ideas, or just chat about rendering, reach out on 
+    <a href="https://www.linkedin.com/in/bennettpoh">LinkedIn</a> or at <strong>bennettpoh@gmail.com</strong>.
+  </sub>
+</p>
 
