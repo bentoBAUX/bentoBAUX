@@ -40,7 +40,7 @@ For full-width: width="100%" height="auto"
 
 <p align="center"><strong>Technical Artist &amp; Graphics Programmer — Bridging Art and Code</strong></p>
 
-Hello! My name is Bennett and I am a computer science student specialising in real-time rendering and shader development, combining technical expertise with 3D art experience to bridge artists and engineers.
+Hello! My name is Bennett, and I am a computer science student specialising in real-time rendering and shader development. With a strong foundation in 3D art and technical expertise, I focus on bridging the gap between artists and engineers.
 
 ## Currently
 - Developing custom shaders and rendering systems in Unity and Vulkan, including building my own Vulkan-based renderer
@@ -68,11 +68,11 @@ Hello! My name is Bennett and I am a computer science student specialising in re
 <!-- TOOLS-START -->
 <!-- This block can be auto-updated by a GitHub Action.
      Paste initial badges manually, or leave "Loading…" until your action writes them. -->
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-1f425f?logo=shaderlab&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-FF6600?logo=opengl&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 <!-- TOOLS-END -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentobaux&layout=compact&theme=dark&hide_border=true" /></a> | -->
