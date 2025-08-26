@@ -44,8 +44,9 @@ For full-width: width="100%" height="auto"
 Hello! My name is Bennett and I am a computer science student specialising in real-time rendering and shader development, combining technical expertise with 3D art experience to bridge artists and engineers.
 
 ## Currently
-- Developing shaders and rendering systems in Unity and Vulkan  
-- Exploring advanced real-time graphics techniques
+- Developing custom shaders and rendering systems in Unity and Vulkan, including building my own Vulkan-based renderer
+
+- Exploring advanced real-time graphics techniques such as subsurface scattering and interior parallax mapping to achieve effects like realistic marbling in stone surfaces
 
 ## Featured Projects
 
@@ -76,9 +77,4 @@ Hello! My name is Bennett and I am a computer science student specialising in re
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 <!-- TOOLS-END -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentobaux&layout=compact&theme=dark&hide_border=true" /></a> | -->
-
-## Learning
-Vulkan, Subsurface Scattering
-
----
 
