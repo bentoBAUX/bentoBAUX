@@ -23,7 +23,7 @@ For full-width: width="100%" height="auto"
     </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.artstation.com/bentobaux">
+  <a href="https://www.artstation.com/bentobaux/albums/1728616">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/artstation/ffffff">
       <img width="32" alt="" src="https://cdn.simpleicons.org/artstation/0a0a0a">
@@ -44,9 +44,9 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 
 ## What I do
 
-- **Shader Development** – Unity URP, HLSL, GLSL, WebGL/Three.js  
-- **Real-Time Rendering** – NPR workflows to achieve stylised visuals 
-- **Devlogs** – Explaining rendering techniques and documenting experiments
+- **Shaders & Rendering** – Developing custom shaders (Unity URP, HLSL, GLSL, WebGL/Three.js) and exploring real-time graphics with a focus on non-photorealistic rendering (NPR) techniques for stylised visuals  
+- **3D Art** – Creating visual stories in Blender through stylised environments, characters, and standalone art pieces, including entries for render competitions. *Full gallery available on [ArtStation](https://www.artstation.com/bentobaux/albums/1728616)*
+- **Devlogs** – Writing shader breakdowns and documenting rendering experiments on my [website](https://bentobaux.github.io)  
 
 ## Currently
 - Building my own Vulkan-based renderer
