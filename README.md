@@ -59,10 +59,10 @@ Hello! I am a computer science student specialising in real-time rendering and s
      The <p float="left"> trick keeps the layout image-only (no table borders). -->
 <p float="left">
   <a href="https://felipe-lucas.itch.io/forgotten-colors">
-    <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="30%">
+    <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="50%">
   </a>
   <a href="https://bentobaux.itch.io/tail-as-old-as-time">
-    <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="30%">
+    <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="50%">
   </a>
 </p>
 
