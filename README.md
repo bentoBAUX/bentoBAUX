@@ -62,7 +62,7 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 
 **Forgotten Colors** — Third-person puzzle-platformer where emotions shape reality. It features a custom Unity URP shader that defines the game’s sumi-e (水墨画) aesthetic, extending the traditional monochrome style into expressive colour palettes reflecting different emotional states. A detailed shader devlog will be published on my website soon!
 
-**Tail as Old as Time** — Exploration puzzle game where you play as a curious cat uncovering the mysteries of an ancient temple, built to showcase a custom [HLSL toon shader](https://bentobaux.github.io/posts/basic-lighting-models-in-hlsl/#5-flat-shading).
+**Tail as Old as Time** — Exploration puzzle game where you play as a curious cat uncovering the mysteries of an ancient temple, built to showcase a [**custom HLSL toon shader**](https://bentobaux.github.io/posts/basic-lighting-models-in-hlsl/#5-flat-shading).
 
 ## Tools & Technologies
 <!-- TOOLS-START -->
