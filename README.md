@@ -23,7 +23,6 @@ For full-width: width="100%" height="auto"
     </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.artstation.com/bentobaux">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/artstation/ffffff">
