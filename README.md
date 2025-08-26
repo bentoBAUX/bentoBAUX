@@ -46,7 +46,7 @@ For full-width: width="100%" height="auto"
 </p>
 
 
-**Technical Artist & Graphics Programmer — Bridging Art and Code**
+<p align="center"><strong>Technical Artist &amp; Graphics Programmer — Bridging Art and Code</strong></p>
 
 ## Currently
 - Developing shaders and rendering systems in Unity and Vulkan  
