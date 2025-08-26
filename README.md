@@ -7,44 +7,6 @@ For full-width: width="100%" height="auto"
   <img src="assets/banner/banner.png" alt="Bennett Portfolio Banner" width="100%" height="auto">
 </a>
 <br><br>
-<!-- ===== SOCIAL ICONS (centered) ===== -->
-<p align="center" >
-  <a href="https://www.youtube.com/@bentoBAUX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/ffffff">
-      <img width="32" alt="" src="https://cdn.simpleicons.org/youtube/0a0a0a">
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/bennettpoh">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-white.png">
-      <img width="32" alt="" src="assets/icons/linkedin-black.png">
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/bentoBAUX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-      <img width="32" alt="" src="https://cdn.simpleicons.org/github/0a0a0a">
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.artstation.com/bentobaux">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/artstation/ffffff">
-      <img width="32" alt="" src="https://cdn.simpleicons.org/artstation/0a0a0a">
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/bentobaux">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff">
-      <img width="32" alt="" src="https://cdn.simpleicons.org/instagram/0a0a0a">
-    </picture>
-  </a>
-</p>
-
 
 <p align="center"><strong>Technical Artist &amp; Graphics Programmer — Bridging Art and Code</strong></p>
 
@@ -83,8 +45,43 @@ For full-width: width="100%" height="auto"
 ## Learning
 Vulkan, Subsurface Scattering
 
-## Links
-[Portfolio](https://bentobaux.github.io) · [ArtStation](https://www.artstation.com/bentobaux) · [LinkedIn](https://www.linkedin.com/in/bennettpoh)
+<!-- ===== SOCIAL ICONS (centered) ===== -->
+<p align="center" >
+  <a href="https://www.youtube.com/@bentoBAUX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/ffffff">
+      <img width="32" alt="" src="https://cdn.simpleicons.org/youtube/0a0a0a">
+    </picture>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/bennettpoh">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-white.png">
+      <img width="32" alt="" src="assets/icons/linkedin-black.png">
+    </picture>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/bentoBAUX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <img width="32" alt="" src="https://cdn.simpleicons.org/github/0a0a0a">
+    </picture>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.artstation.com/bentobaux">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/artstation/ffffff">
+      <img width="32" alt="" src="https://cdn.simpleicons.org/artstation/0a0a0a">
+    </picture>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/bentobaux">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff">
+      <img width="32" alt="" src="https://cdn.simpleicons.org/instagram/0a0a0a">
+    </picture>
+  </a>
+</p>
 
 ---
 
