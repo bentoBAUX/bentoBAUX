@@ -48,11 +48,11 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 - **3D Art** – Creating visual stories in Blender through stylised environments, characters, and standalone art pieces, including entries for render competitions. [*Full gallery available on ArtStation*](https://www.artstation.com/bentobaux/albums/1728616).
 - **Devlogs** – Writing shader breakdowns and documenting rendering experiments on my [website](https://bentobaux.github.io).
 
-## Currently
+## What I’m Working On
 - Building my own Vulkan-based renderer
 - Exploring advanced real-time graphics techniques such as subsurface scattering and interior parallax mapping to achieve effects like realistic marbling in stone surfaces inspired by Destiny 2.
 
-## Featured Projects
+## What I’ve Built
 
 <!-- Thumbnails: put your images in /assets/featured and keep alt text short. 
      The <p float="left"> trick keeps the layout image-only (no table borders). -->
@@ -69,7 +69,7 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 
 **[Tail as Old as Time](https://bentobaux.itch.io/tail-as-old-as-time)** — Exploration puzzle game where you play as a curious cat uncovering the mysteries of an ancient temple, built to showcase a [**custom HLSL toon shader**](https://bentobaux.github.io/posts/basic-lighting-models-in-hlsl/#5-flat-shading).
 
-## Tools & Technologies
+## What I Use
 <!-- TOOLS-START -->
 <!-- This block can be auto-updated by a GitHub Action.
      Paste initial badges manually, or leave "Loading…" until your action writes them. -->
