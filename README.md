@@ -3,12 +3,12 @@ Place a banner image in your repo and point src to it.
 For full-width: width="100%" height="auto"
 -->
 <a href="https://bentobaux.github.io">
-  <img src="assets/hero.jpg" alt="Bennett Portfolio Banner" width="100%" height="auto">
+  <img src="assets/banner/banner.png" alt="Bennett Portfolio Banner" width="100%" height="auto">
 </a>
 
 <!-- ===== SOCIAL ICONS (centered) ===== -->
 <p align="center">
-  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank" rel="noopener">
+  <a href="https://www.youtube.com/@bentoBAUX" target="_blank" rel="noopener">
     <img width="32" alt="YouTube" title="YouTube" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
