@@ -45,9 +45,6 @@ For full-width: width="100%" height="auto"
 </p>
 
 
-
----
-
 # Hi, I'm Bennett
 
 **Technical Artist & Graphics Programmer — Bridging Art and Code**
