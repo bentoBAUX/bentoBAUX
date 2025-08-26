@@ -1,0 +1,63 @@
+name: Update Language Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Weekly Monday 00:00 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-language-stats.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      repo: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Collect language stats
+        id: lang
+        run: |
+          echo 'Gathering language breakdown for user bentoBAUX'
+          curl -s "https://api.github.com/users/bentoBAUX/repos?per_page=100" > repos.json
+          langs_file=langs.json
+          echo '{}' > $langs_file
+          for repo in $(jq -r '.[].name' repos.json); do
+            echo "Repo: $repo" >&2
+            curl -s "https://api.github.com/repos/bentoBAUX/$repo/languages" > repo_langs.json
+            jq -s '.[0] * .[1]' $langs_file repo_langs.json > tmp.json && mv tmp.json $langs_file
+          done
+          echo "Aggregated languages:" >&2
+          cat $langs_file
+          total=$(jq 'to_entries | map(.value) | add' $langs_file)
+          jq --argjson total $total 'to_entries | map({name: .key, bytes: .value, pct: ((.value / $total)*100)}) | sort_by(-.bytes) | .[0:8]' $langs_file > top_langs.json
+          echo 'top='$(cat top_langs.json | jq -r 'map("![](" + ("https://img.shields.io/badge/" + (.name|gsub("#";"%23")) + "-" + ((.pct|round|tostring)+"%25") + "-blue") + ")") ) | join(" ")') >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          top_line="${{ steps.lang.outputs.top }}"
+          if [ -z "$top_line" ]; then
+            echo 'No languages found, skipping.'
+            exit 0
+          fi
+          # Insert or replace block
+          if grep -q '<!-- LANG-STATS-START -->' README.md; then
+            perl -0777 -i -pe "s/<!-- LANG-STATS-START -->[\s\S]*?<!-- LANG-STATS-END -->/<!-- LANG-STATS-START -->\n$top_line\n<!-- LANG-STATS-END -->/" README.md
+          else
+            printf '\n## Language Usage\n<!-- LANG-STATS-START -->\n%s\n<!-- LANG-STATS-END -->\n' "$top_line" >> README.md
+          fi
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
+          if git diff --quiet; then
+            echo 'No changes to commit.'
+          else
+            git add README.md
+            git commit -m 'chore: update language stats'
+            git push
+          fi
+        shell: bash

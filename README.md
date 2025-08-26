@@ -23,12 +23,6 @@ For full-width: width="100%" height="auto"
     </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/bentoBAUX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-      <img width="32" alt="" src="https://cdn.simpleicons.org/github/0a0a0a">
-    </picture>
-  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.artstation.com/bentobaux">
     <picture>
@@ -80,6 +74,11 @@ Hello! I am a computer science student specialising in real-time rendering and s
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 <!-- TOOLS-END -->
+
+## Language Usage
+<!-- LANG-STATS-START -->
+Loading…
+<!-- LANG-STATS-END -->
 
 ## Learning
 Vulkan, Subsurface Scattering
