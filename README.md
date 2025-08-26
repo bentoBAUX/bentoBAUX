@@ -76,9 +76,7 @@ Hello! I am a computer science student specialising in real-time rendering and s
 <!-- TOOLS-END -->
 
 ## Language Usage
-<!-- LANG-STATS-START -->
-Loading…
-<!-- LANG-STATS-END -->
+<img src="./metrics-languages.svg" alt="Top languages" />
 
 ## Learning
 Vulkan, Subsurface Scattering
