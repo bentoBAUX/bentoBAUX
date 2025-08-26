@@ -8,26 +8,27 @@ For full-width: width="100%" height="auto"
 
 <!-- ===== SOCIAL ICONS (centered) ===== -->
 <p align="center">
-  <a href="https://www.youtube.com/@bentoBAUX" target="_blank" rel="noopener">
-    <img width="32" alt="YouTube" title="YouTube" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg">
+  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img width="32" alt="YouTube" title="YouTube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/bennettpoh" target="_blank" rel="noopener">
-    <img width="32" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg">
+  <a href="https://www.linkedin.com/in/bennettpoh" target="_blank">
+    <img width="32" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/bentoBAUX" target="_blank" rel="noopener">
-    <img width="32" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg">
+  <a href="https://github.com/bentoBAUX" target="_blank">
+    <img width="32" alt="GitHub" title="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.artstation.com/bentobaux" target="_blank" rel="noopener">
-    <img width="32" alt="ArtStation" title="ArtStation" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/artstation.svg">
+  <a href="https://www.artstation.com/bentobaux" target="_blank">
+    <img width="32" alt="ArtStation" title="ArtStation" src="https://www.vectorlogo.zone/logos/artstation/artstation-icon.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/bentobaux" target="_blank" rel="noopener">
-    <img width="32" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg">
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img width="32" alt="Instagram" title="Instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
   </a>
 </p>
+
 
 ---
 
