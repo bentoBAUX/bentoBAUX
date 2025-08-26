@@ -80,5 +80,7 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 <!-- TOOLS-END -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentobaux&layout=compact&theme=dark&hide_border=true" /></a> | -->
+
+I enjoy connecting with other developers, artists, and researchers in graphics programming.  
+If you’d like to collaborate, exchange ideas, or just chat about rendering, reach out on [LinkedIn](https://www.linkedin.com/in/bennettpoh) or at **bennettpoh@gmail.com**.
 
