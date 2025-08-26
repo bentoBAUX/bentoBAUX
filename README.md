@@ -7,26 +7,19 @@
 - Exploring advanced real-time graphics techniques  
 
 ## Featured Projects
-## Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://felipe-lucas.itch.io/forgotten-colors">
-        <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="320">
-      </a>
-      <br>
-      <sub>Forgotten Colors — Stylised sumi-e puzzle platformer</sub>
-    </td>
-    <td>
-      <a href="https://bentobaux.itch.io/tail-as-old-as-time">
-        <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="320">
-      </a>
-      <br>
-      <sub>Tail as Old as Time — Exploration game showcasing a toon shader</sub>
-    </td>
-  </tr>
-</table>
+<p float="left">
+  <a href="https://felipe-lucas.itch.io/forgotten-colors">
+    <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="45%"/>
+  </a>
+  <a href="https://bentobaux.itch.io/tail-as-old-as-time">
+    <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="45%"/>
+  </a>
+</p>
+
+**Forgotten Colors** — Stylised sumi-e puzzle platformer  
+**Tail as Old as Time** — Exploration game showcasing a toon shader  
+
 
 
 ## Tools & Technologies
