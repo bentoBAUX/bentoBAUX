@@ -1,26 +1,28 @@
-# Hi, I'm Bennett 👋  
+# Hi, I'm Bennett  
 
-Technical Artist & Graphics Programmer | Bridging Art and Code  
+**Technical Artist & Graphics Programmer — Bridging Art and Code**  
 
-💡 Currently:  
-- Building shaders & rendering systems in Unity and Vulkan
-- Learning advanced real-time graphics techniques  
+## Currently
+- Developing shaders and rendering systems in Unity and Vulkan  
+- Exploring advanced real-time graphics techniques  
 
-🚀 Featured Projects:  
-- [Forgotten Colors](https://felipe-lucas.itch.io/forgotten-colors) – Stylised sumi-e shader puzzle-platformer game  
-- [Tail as Old as Time](https://bentobaux.itch.io/tail-as-old-as-time) – A little exploration puzzle game I made to showcase a toon shader I wrote using HLSL.
+## Featured Projects
+- [Forgotten Colors](https://felipe-lucas.itch.io/forgotten-colors) – Stylised sumi-e shader puzzle-platformer  
+- [Tail as Old as Time](https://bentobaux.itch.io/tail-as-old-as-time) – Exploration puzzle game showcasing a custom HLSL toon shader  
 
-🛠️ Tech I use:  
+## Tools & Technologies
 ![HLSL](https://img.shields.io/badge/HLSL-1f425f?logo=shaderlab&logoColor=white)  
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-FF6600?style=for-the-badge&logo=opengl&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![GLSL](https://img.shields.io/badge/GLSL-FF6600?logo=opengl&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)  
 
-📚 Currently learning: Vulkan, Subsurface Scattering  
+## Learning
+Vulkan, Subsurface Scattering  
 
-🌐 [Portfolio Website](https://bentobaux.github.io) | [ArtStation](https://artstation.com/bentobaux) | [LinkedIn](https://linkedin.com/in/bennettpoh)  
+## Links
+[Portfolio Website](https://bentobaux.github.io) · [ArtStation](https://artstation.com/bentobaux) · [LinkedIn](https://linkedin.com/in/bennettpoh)  
 
 ---
-💬 *“Shaders are like poetry for pixels.”*  
+*“Shaders are like poetry for pixels.”*  
