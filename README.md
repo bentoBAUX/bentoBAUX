@@ -82,7 +82,3 @@ Vulkan, Subsurface Scattering
     </picture>
   </a>
 </p>
-
----
-
-*“Shaders are like poetry for pixels.”*
