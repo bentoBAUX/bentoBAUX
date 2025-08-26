@@ -49,9 +49,8 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 - **Devlogs** – Explaining rendering techniques and documenting experiments
 
 ## Currently
-- Developing custom shaders and rendering systems in Unity and Vulkan, including building my own Vulkan-based renderer
-
-- Exploring advanced real-time graphics techniques such as subsurface scattering and interior parallax mapping to achieve effects like realistic marbling in stone surfaces
+- Building my own Vulkan-based renderer
+- Exploring advanced real-time graphics techniques such as subsurface scattering and interior parallax mapping to achieve effects like realistic marbling in stone surfaces inspired by Destiny 2.
 
 ## Featured Projects
 
