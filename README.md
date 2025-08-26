@@ -5,7 +5,7 @@ For full-width: width="100%" height="auto"
 <a href="https://bentobaux.github.io">
   <img src="assets/banner/banner.png" alt="Bennett Portfolio Banner" width="100%" height="auto">
 </a>
-
+<br/>
 <!-- ===== SOCIAL ICONS (centered) ===== -->
 <p align="center">
   <a href="https://www.youtube.com/@bentoBAUX">
