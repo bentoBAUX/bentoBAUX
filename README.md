@@ -42,7 +42,7 @@ For full-width: width="100%" height="auto"
 
 Hello! My name is Bennett, and I am a computer science student specialising in real-time rendering and shader development. With a strong foundation in 3D art and technical expertise, I focus on bridging the gap between artists and engineers within game development teams.
 
-## What I do
+## What I Do
 
 - **Shaders & Rendering** – Developing custom shaders (Unity URP, HLSL, GLSL, WebGL/Three.js) and exploring real-time graphics with a focus on non-photorealistic rendering (NPR) techniques for stylised visuals.
 - **3D Art** – Creating visual stories in Blender through stylised environments, characters, and standalone art pieces, including entries for render competitions. [*Full gallery available on ArtStation*](https://www.artstation.com/bentobaux/albums/1728616).
