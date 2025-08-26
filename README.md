@@ -42,6 +42,12 @@ For full-width: width="100%" height="auto"
 
 Hello! My name is Bennett, and I am a computer science student specialising in real-time rendering and shader development. With a strong foundation in 3D art and technical expertise, I focus on bridging the gap between artists and engineers within game development teams.
 
+## What I do
+
+- **Shader Development** – Unity URP, HLSL, GLSL, WebGL/Three.js  
+- **Real-Time Rendering** – NPR workflows to achieve stylised visuals 
+- **Devlogs** – Explaining rendering techniques and documenting experiments
+
 ## Currently
 - Developing custom shaders and rendering systems in Unity and Vulkan, including building my own Vulkan-based renderer
 
