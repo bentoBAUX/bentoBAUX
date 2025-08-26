@@ -45,6 +45,7 @@ For full-width: width="100%" height="auto"
 ## Learning
 Vulkan, Subsurface Scattering
 
+---
 <!-- ===== SOCIAL ICONS (centered) ===== -->
 <p align="center" >
   <a href="https://www.youtube.com/@bentoBAUX">
