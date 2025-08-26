@@ -38,7 +38,7 @@ For full-width: width="100%" height="auto"
   </a>
 </p>
 
-<p align="center"><strong>Technical Artist &amp; Graphics Programmer — Bridging Art and Code</strong></p>
+<p align="center"><strong>Technical Artist &amp; Graphics Programmer</strong></p>
 
 Hello! My name is Bennett, and I am a computer science student specialising in real-time rendering and shader development. With a strong foundation in 3D art and technical expertise, I focus on bridging the gap between artists and engineers within game development teams.
 
