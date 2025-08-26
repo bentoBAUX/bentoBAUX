@@ -57,7 +57,7 @@ Hello! I am a computer science student specialising in real-time rendering and s
 
 <!-- Thumbnails: put your images in /assets/featured and keep alt text short. 
      The <p float="left"> trick keeps the layout image-only (no table borders). -->
-<p float="center">
+<p float="left" align="center>
   <a href="https://felipe-lucas.itch.io/forgotten-colors">
     <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="50%">
   </a>
