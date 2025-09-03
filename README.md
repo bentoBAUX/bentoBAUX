@@ -65,7 +65,7 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
     </a>
 </p>
 
-**[Forgotten Colors](https://felipe-lucas.itch.io/forgotten-colors)** — Third-person puzzle-platformer where emotions shape reality. It features a custom Unity URP shader that defines the game’s sumi-e (水墨画) aesthetic, extending the traditional monochrome style into expressive colour palettes reflecting different emotional states. Checkout the [**_devlog_**__](https://bentobaux.github.io/posts/forgotten-colors-capturing-the-sumi-e-in-3d)!
+**[Forgotten Colors](https://felipe-lucas.itch.io/forgotten-colors)** — Third-person puzzle-platformer where emotions shape reality. It features a custom Unity URP shader that defines the game’s sumi-e (水墨画) aesthetic, extending the traditional monochrome style into expressive colour palettes reflecting different emotional states. Checkout the [**_devlog_**](https://bentobaux.github.io/posts/forgotten-colors-capturing-the-sumi-e-in-3d)!
 
 **[Tail as Old as Time](https://bentobaux.itch.io/tail-as-old-as-time)** — Exploration puzzle game where you play as a curious cat uncovering the mysteries of an ancient temple, built to showcase a [**custom HLSL toon shader**](https://bentobaux.github.io/posts/basic-lighting-models-in-hlsl/#5-flat-shading).
 
