@@ -49,8 +49,7 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 - **Renders & Visuals** – Showcasing finished renders and visual pieces that highlight the artistic side of my shader work. [***Full gallery available on ArtStation***](https://www.artstation.com/bentobaux/albums/1728616)
 
 ## What I’m Working On
-- Building my own Vulkan-based renderer
-- Exploring advanced real-time graphics techniques such as subsurface scattering and interior parallax mapping to achieve effects like realistic marbling in stone surfaces inspired by Destiny 2.
+- Researching and implementing advanced subsurface scattering methods in Unity URP, aiming to bring in high-quality techniques from engines like Blender Eevee and push URP to its visual limits.
 
 ## What I’ve Built
 
@@ -69,6 +68,10 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 
 **[Tail as Old as Time](https://bentobaux.itch.io/tail-as-old-as-time)** — Exploration puzzle game where you play as a curious cat uncovering the mysteries of an ancient temple, built to showcase a [**custom HLSL toon shader**](https://bentobaux.github.io/posts/basic-lighting-models-in-hlsl/#5-flat-shading).
 
+## What's Next
+- Create a YouTube course on HLSL in Unity, designed to take beginners from zero experience to the level of understanding I’ve reached.
+- Build my own Vulkan-based renderer.
+  
 ## What I Use
 <!-- TOOLS-START -->
 <!-- This block can be auto-updated by a GitHub Action.
