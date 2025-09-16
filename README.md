@@ -9,17 +9,17 @@ For full-width: width="100%" height="auto"
 <br><br>
 <!-- ===== SOCIAL ICONS (centered) ===== -->
 <p align="center" >
-  <a href="https://www.youtube.com/@bentoBAUX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/ffffff">
-      <img width="32" alt="" src="https://cdn.simpleicons.org/youtube/0a0a0a">
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/bennettpoh">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-white.png">
       <img width="32" alt="" src="assets/icons/linkedin-black.png">
+    </picture>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/@bentoBAUX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/ffffff">
+      <img width="32" alt="" src="https://cdn.simpleicons.org/youtube/0a0a0a">
     </picture>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -29,13 +29,13 @@ For full-width: width="100%" height="auto"
       <img width="32" alt="" src="https://cdn.simpleicons.org/artstation/0a0a0a">
     </picture>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/bentobaux">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff">
       <img width="32" alt="" src="https://cdn.simpleicons.org/instagram/0a0a0a">
     </picture>
-  </a>
+  </a> -->
 </p>
 
 <h3 align="center"><strong>Technical Artist &amp; Graphics Programmer</strong></h3>
