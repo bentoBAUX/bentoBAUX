@@ -46,8 +46,8 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 
 - **Shaders & Rendering** – Developing custom shaders (Unity URP, HLSL, GLSL, WebGL/Three.js) that explore how far standard game-engine rendering can be pushed to achieve top-tier visual quality, from photorealism to bold stylisation.
 - **Devlogs and YouTube** – Breaking down shaders and documenting rendering experiments through write-ups on my [**website**](https://bentobaux.github.io) and videos on [**YouTube**](https://www.youtube.com/@bentobaux), from showcases and timelapses to tutorials.
-- **Renders & Visuals** – Showcasing finished renders and visual pieces that highlight the artistic side of my shader work. [***Full gallery available on ArtStation***](https://www.artstation.com/bentobaux/albums/1728616)
-
+- **Renders & Visuals** – Showcasing finished renders and visual pieces on [**Artstation**](https://www.artstation.com/bentobaux/albums/1728616) that highlight the artistic side of my shader work.
+  
 ## What I’m Working On
 - Researching and implementing advanced subsurface scattering methods in Unity URP, aiming to bring in high-quality techniques from engines like Blender Eevee and push URP to its visual limits.
 
