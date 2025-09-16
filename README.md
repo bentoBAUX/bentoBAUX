@@ -45,8 +45,8 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 ## What I Do
 
 - **Shaders & Rendering** – Developing custom shaders (Unity URP, HLSL, GLSL, WebGL/Three.js) that explore how far standard game-engine rendering can be pushed to achieve top-tier visual quality, from photorealism to bold stylisation.
-- **3D Art** – Creating visual stories in Blender through stylised environments, characters, and standalone art pieces, including entries for render competitions. [***Full gallery available on ArtStation***](https://www.artstation.com/bentobaux/albums/1728616)
-- **Devlogs** – Writing shader breakdowns and documenting rendering experiments on my [***website***](https://bentobaux.github.io).
+- **Devlogs and YouTube** – Breaking down shaders and documenting rendering experiments through write-ups on my [**website**](https://bentobaux.github.io) and videos on [**YouTube**](https://www.youtube.com/@bentobaux), from showcases and timelapses to tutorials.
+- **Renders & Visuals** – Showcasing finished renders and visual pieces that highlight the artistic side of my shader work. [***Full gallery available on ArtStation***](https://www.artstation.com/bentobaux/albums/1728616)
 
 ## What I’m Working On
 - Building my own Vulkan-based renderer
