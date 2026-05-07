@@ -49,7 +49,7 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 - **Renders & Visuals** – Showcasing finished renders and visual pieces on [**Artstation**](https://www.artstation.com/bentobaux/albums/1728616) that highlight the artistic side of my shader work.
   
 ## What I’m Working On
-- Researching and implementing advanced subsurface scattering methods in Unity URP, aiming to bring in high-quality techniques from engines like Blender Eevee and push URP to its visual limits.
+- Implementing and writing a devlog for separable subsurface scattering in Unity 6. The goal is to achieve Blender-like subsurface scattering quality in a real-time engine.
 
 ## What I’ve Built
 
