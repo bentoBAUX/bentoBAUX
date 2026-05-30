@@ -56,16 +56,25 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 <!-- Thumbnails: put your images in /assets/featured and keep alt text short. 
      The <p float="left"> trick keeps the layout image-only (no table borders). -->
 <p align="center">
-    <a href="https://bentobaux.github.io/posts/separable-subsurface-scattering-in-unity-6/" style="display:inline-block;">
-        <img src="assets/featured/ssss-thumbnail-big.png" alt="Separable SSS" width="100%" style="margin:0 10px;vertical-align:middle;">
-    </a>
-    <a href="https://felipe-lucas.itch.io/forgotten-colors" style="display:inline-block;">
-        <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="50%" style="margin:0 10px;vertical-align:middle;">
-    </a>
-    <a href="https://bentobaux.itch.io/tail-as-old-as-time" style="display:inline-block;">
-        <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="50%" style="margin:0 10px;vertical-align:middle;">
-    </a>
+  <a href="https://bentobaux.github.io/posts/separable-subsurface-scattering-in-unity-6/">
+    <img src="assets/featured/ssss-thumbnail-big.png" alt="Separable SSS" width="100%">
+  </a>
 </p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://felipe-lucas.itch.io/forgotten-colors">
+        <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="100%">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://bentobaux.itch.io/tail-as-old-as-time">
+        <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 **[Separable Subsurface Scattering in Unity 6 URP](https://bentobaux.github.io/posts/separable-subsurface-scattering-in-unity-6/)** — Real-time screen-space subsurface scattering implementation in Unity 6 URP, based on Jorge Jimenez’s separable artist friendly kernel. The project uses a custom Scriptable Render Pipeline feature to split PBR lighting into diffuse, specular, and ambient buffers, applies a two-pass separable convolution to the diffuse buffer, and composites the result back with sharp specular lighting. It includes artist-friendly material controls, thickness-based light transmission, and showcase presets for skin, jade, marble, wax, and other materials.
 
