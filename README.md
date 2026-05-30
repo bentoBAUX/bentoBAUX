@@ -61,20 +61,14 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
   </a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://felipe-lucas.itch.io/forgotten-colors">
-        <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="100%">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://bentobaux.itch.io/tail-as-old-as-time">
-        <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://felipe-lucas.itch.io/forgotten-colors">
+    <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="49%">
+  </a>
+  <a href="https://bentobaux.itch.io/tail-as-old-as-time">
+    <img src="assets/featured/tail-thumbnail.png" alt="Tail as Old as Time" width="49%">
+  </a>
+</p>
 
 **[Separable Subsurface Scattering in Unity 6 URP](https://bentobaux.github.io/posts/separable-subsurface-scattering-in-unity-6/)** — Real-time screen-space subsurface scattering implementation in Unity 6 URP, based on Jorge Jimenez’s separable artist friendly kernel. The project uses a custom Scriptable Render Pipeline feature to split PBR lighting into diffuse, specular, and ambient buffers, applies a two-pass separable convolution to the diffuse buffer, and composites the result back with sharp specular lighting. It includes artist-friendly material controls, thickness-based light transmission, and showcase presets for skin, jade, marble, wax, and other materials.
 
