@@ -57,7 +57,7 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
      The <p float="left"> trick keeps the layout image-only (no table borders). -->
 <p align="center">
     <a href="https://bentobaux.github.io/posts/separable-subsurface-scattering-in-unity-6/" style="display:inline-block;">
-        <img src="assets/featured/ssss-thumbnail.png" alt="Separable SSS" width="40%" style="margin:0 10px;vertical-align:middle;">
+        <img src="assets/featured/ssss-thumbnail-big.png" alt="Separable SSS" width="100%" style="margin:0 10px;vertical-align:middle;">
     </a>
     <a href="https://felipe-lucas.itch.io/forgotten-colors" style="display:inline-block;">
         <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="40%" style="margin:0 10px;vertical-align:middle;">
