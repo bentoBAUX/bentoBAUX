@@ -49,13 +49,16 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 - **Renders & Visuals** – Showcasing finished renders and visual pieces on [**Artstation**](https://www.artstation.com/bentobaux/albums/1728616) that highlight the artistic side of my shader work.
   
 ## What I’m Working On
-- Implementing and writing a devlog for separable subsurface scattering in Unity 6. The goal is to achieve Blender-like subsurface scattering quality in a real-time engine.
+- Building my own Vulkan-based renderer
 
 ## What I’ve Built
 
 <!-- Thumbnails: put your images in /assets/featured and keep alt text short. 
      The <p float="left"> trick keeps the layout image-only (no table borders). -->
 <p align="center">
+    <a href="https://bentobaux.github.io/posts/separable-subsurface-scattering-in-unity-6/" style="display:inline-block;">
+        <img src="assets/featured/ssss-thumbnail.png" alt="Separable SSS" width="40%" style="margin:0 10px;vertical-align:middle;">
+    </a>
     <a href="https://felipe-lucas.itch.io/forgotten-colors" style="display:inline-block;">
         <img src="assets/featured/forgotten-colors-thumbnail.png" alt="Forgotten Colors" width="40%" style="margin:0 10px;vertical-align:middle;">
     </a>
@@ -64,7 +67,9 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
     </a>
 </p>
 
-- **[Forgotten Colors](https://felipe-lucas.itch.io/forgotten-colors)** — Third-person puzzle-platformer where emotions shape reality. It features a custom Unity URP shader that defines the game’s sumi-e (水墨画) aesthetic, extending the traditional monochrome style into expressive colour palettes reflecting different emotional states. Check out the [**devlog**](https://bentobaux.github.io/posts/forgotten-colors-capturing-sumi-e-in-3d)!
+**[Separable Subsurface Scattering in Unity 6 URP](https://bentobaux.github.io/posts/separable-subsurface-scattering-in-unity-6/)** — Real-time screen-space subsurface scattering implementation in Unity 6 URP, based on Jorge Jimenez’s separable artist friendly kernel. The project uses a custom Scriptable Render Pipeline feature to split PBR lighting into diffuse, specular, and ambient buffers, applies a two-pass separable convolution to the diffuse buffer, and composites the result back with sharp specular lighting. It includes artist-friendly material controls, thickness-based light transmission, and showcase presets for skin, jade, marble, wax, and other materials.
+
+**[Forgotten Colors](https://felipe-lucas.itch.io/forgotten-colors)** — Third-person puzzle-platformer where emotions shape reality. It features a custom Unity URP shader that defines the game’s sumi-e (水墨画) aesthetic, extending the traditional monochrome style into expressive colour palettes reflecting different emotional states. A detailed shader devlog will be published on my website soon!
 
 - **[Tail as Old as Time](https://bentobaux.itch.io/tail-as-old-as-time)** — Exploration puzzle game where you play as a curious cat uncovering the mysteries of an ancient temple, built to showcase a [**custom HLSL toon shader**](https://bentobaux.github.io/posts/basic-lighting-models-in-hlsl/#5-flat-shading).
 
