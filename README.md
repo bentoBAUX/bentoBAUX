@@ -47,9 +47,6 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 - **Shaders & Rendering** – Developing custom shaders (Unity URP, HLSL, GLSL, WebGL/Three.js) that explore how far standard game-engine rendering can be pushed to achieve top-tier visual quality, from photorealism to bold stylisation.
 - **Devlogs and YouTube** – Breaking down shaders and documenting rendering experiments through write-ups on my [**website**](https://bentobaux.github.io) and videos on [**YouTube**](https://www.youtube.com/@bentobaux), from showcases and timelapses to tutorials.
 - **Renders & Visuals** – Showcasing finished renders and visual pieces on [**Artstation**](https://www.artstation.com/bentobaux/albums/1728616) that highlight the artistic side of my shader work.
-  
-## What I’m Working On
-- Building my own Vulkan-based renderer
 
 ## What I’ve Built
 
@@ -77,8 +74,8 @@ Hello! My name is Bennett, and I am a computer science student specialising in r
 **[Tail as Old as Time](https://bentobaux.itch.io/tail-as-old-as-time)** — Exploration puzzle game where you play as a curious cat uncovering the mysteries of an ancient temple, built to showcase a [**custom HLSL toon shader**](https://bentobaux.github.io/posts/basic-lighting-models-in-hlsl/#5-flat-shading).
 
 ## What's Next
-- Create a YouTube course on HLSL in Unity, designed to take beginners from zero experience to the level of understanding I’ve reached.
 - Build my own Vulkan-based renderer.
+- Create a YouTube course on HLSL in Unity, designed to take beginners from zero experience to the level of understanding I’ve reached.
   
 ## What I Use
 <!-- TOOLS-START -->
